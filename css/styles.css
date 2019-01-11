@@ -1,6 +1,9 @@
+body{
+  font-family: 'Roboto',sans-serif;
+}
  /* title */
+
  #title{
-   /* background-color: #2b2e4a; */
    background-color: #260C1A;
    color:#fff;
  }
@@ -9,7 +12,7 @@
  }
  h1{
    font-family: 'Open Sans', sans-serif;
-   font-weight: bold;
+   font-weight:500;
    font-size: 3rem;
  }
  h6{
@@ -17,12 +20,24 @@
    margin-top: 20px;
  }
 
- hr{
-   background:#e84545;
-   height:3px;
- }
+
  .titleimage{
    margin-left: 200px;
+ }
+ /* navigationbar */
+ .navbar{
+   padding-bottom: 4.5rem;
+ }
+ .navbar-brand{
+   font-family:'Ubuntu',sans-serif;
+   font-weight: bold;
+   font-size: 2.3rem;
+ }
+ .nav-item{
+   padding:0 18px;
+ }
+ .nav-link{
+   font-size: 1.2rem;
  }
  /* features */
  #features{
@@ -39,6 +54,8 @@
  }
 h3{
 color: #260C1A;
+font-family: 'Roboto',sans-serif;
+font-weight: bold;
 }
 .feature-text{
   color: #260C1A;
@@ -67,4 +84,21 @@ color: #260C1A;
 .img-thumbnail{
   width:auto;
   height: 250px;
+  margin: 2%;
+}
+h5{
+  font-weight: bold;
+}
+
+/* testimonials */
+#testimonials{
+  background-color: #260C1A;
+  text-align: center;
+  padding: 7% 15%;
+  color: #FFF;
+}
+h2{
+  font-family: 'Open Sans',sans-serif;
+  font-weight: 400;
+  padding-bottom: 7%
 }
