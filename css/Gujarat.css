@@ -1,0 +1,107 @@
+/* title */
+#title{
+  background-color: #df0054;
+  color: #a1c45a;
+}
+.container-fluid{
+  padding:3% 15% 5%;
+}
+h1{
+  font-family: 'Open Sans',sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+h5{
+  font-family: 'Roboto',sans-serif;
+  line-height: 1.5;
+  font-weight: 300;
+}
+/* navbar */
+.navbar{
+  padding-bottom: 4.5rem;
+}
+.navbar-brand{
+  color: #a1c45a;
+  font-family:'Ubuntu',sans-serif;
+  font-weight: bold;
+  font-size: 2.3rem;
+}
+.nav-item{
+  padding:0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+}
+.navbar li a{
+  color: #a1c45a;
+}
+
+/* highlights */
+#highlights
+{
+  background-color:#a1c45a;
+  padding: 5% 15%;
+  color: #df0054;
+  text-align:justify;
+}
+h2{
+  padding-bottom: 3rem;
+line-height: 1.5;
+}
+h3{
+  padding-bottom: 2rem;
+  font-family: 'Open Sans',sans-serif;
+  font-weight: bold;
+
+}
+p{
+font-size: 1.25rem;
+line-height: 1.5;
+}
+.deeppink-img{
+  width:700px;
+  height:400px;
+  border:4px solid #df0054;
+}
+/* Dwarka */
+#Dwarka{
+  color: #a1c45a;
+   background-color: #df0054;
+   padding : 5% 10%;
+   text-align: right;
+
+
+}
+.green-img{
+  width:600px;
+  height:400px;
+  border:4px solid #a1c45a;
+}
+/* Surat */
+#Surat{
+  background-color: #a1c45a;
+  padding: 5% 15%;
+  color: #df0054;
+  text-align:justify;
+}
+/* pricing */
+#pricing{
+     background-color: #df0054;
+color: #a1c45a;
+  padding: 100px;
+  text-align: center;
+}
+.pricing-column{
+  padding: 3% 2%;
+}
+.pricing-card{
+  background-color: #a1c45a;
+   color: #df0054;
+}
+#Contact{
+  background-color:  #a1c45a;
+  padding: 3% 18%;
+  color:#df0054;
+  text-align: center;
+}
